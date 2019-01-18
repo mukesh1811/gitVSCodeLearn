@@ -1,2 +1,3 @@
-print("master from branch1")
-print("branch1")
+print("master from branch2")
+print("branch1 from branch2")
+print("branch2")
